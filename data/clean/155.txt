@@ -1,0 +1,32 @@
+
+
+We are hoping to be able to begin using OATI certificates by the end of this 
+week or early next week.  At some point, I will notify you of a default 
+password to use for your first login.  You will be expected to replace the 
+default with your own password on your first login. However, before we can 
+implement, I need updated information from you.    Please reply to this 
+message with the following information.
+
+1.	User name
+
+2.	Email address
+
+3.	Phone number
+
+4.	Do you currently have an OATI digital certificate?
+
+5.	I you have an OATI certificate, what is the common name?
+
+6.	If you do not have an OATI certificate, what is the name of your Security 
+Officer or security contact?
+
+I am not certain at this point whether we can use Tradewave and OATI 
+certificates in parallel.  It seems to be a good possibility, but hasn't yet been 
+confirmed.  If we are able to do so, we have until the end of June to complete 
+everyone's conversion.  If not, we will have to pick a date certain for the 
+change.  Since I will be on the road from June 25-28, the changeover date 
+would have to be no later than June 24.
+
+The attached file describes how to obtain a certificate from OATI.
+
+

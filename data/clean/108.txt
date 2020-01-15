@@ -1,0 +1,12 @@
+
+The following expense report is ready for approval:
+
+Employee Name: Richard L. Carson
+Status last changed by: Rita J. Hennessy
+Expense Report Name: January  2002
+Report Total: $136.17
+Amount Due Employee: $136.17
+
+
+To approve this expense report, click on the following link for Concur Expense.
+http://expensexms.enron.com
