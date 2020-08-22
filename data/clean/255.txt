@@ -1,7 +1,3 @@
-	w..delainey@enron.com, james.derrick@enron.com, 
-	stanley.horton@enron.com, mark.koenig@enron.com, 
-	kenneth.lay@enron.com, jeffrey.mcmahon@enron.com, 
-	john.sherriff@enron.com, greg.whalley@enron.com
 
  
 

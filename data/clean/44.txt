@@ -1,8 +1,3 @@
-	michael.guadarrama@enron.com, jennifer.denny@enron.com, 
-	louise.kitchen@enron.com
-	michael.guadarrama@enron.com, jennifer.denny@enron.com, 
-	louise.kitchen@enron.com
-
 Preparations are continuing for our simulation on Thursday, Feb. 7 from 9-11 am.
 
 During the simulation, you will be able to use your normal, "live" Stack Manager User ID and password, which will be emailed to you separately.

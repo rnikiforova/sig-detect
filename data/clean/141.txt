@@ -8,6 +8,4 @@ Highlight in Red the systems you will need and mark the priority from 1-5,  1 be
 
 #sig#Thank you,
 
-#sig#Danielle 
-
- << File: md.xls >>   
+#sig#Danielle

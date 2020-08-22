@@ -1,9 +1,3 @@
-	bob.crane@enron.com, peggy.determeyer@enron.com, 
-	fp.dl-warriors@enron.com, rodney.malcolm@enron.com, 
-	rohit.reddy@enron.com, v..reed@enron.com, robert.richard@enron.com, 
-	robert.saltiel@enron.com
-
-
 Dear Team,
 
 Attached is the updated price forecast.  This has RISI forecasts for each commodity.

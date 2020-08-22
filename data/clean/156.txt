@@ -1,11 +1,3 @@
-	traders.dl-netco@enron.com, originators.dl-netco@enron.com
-	teresa.mandola@enron.com, jennifer.mcquade@enron.com, 
-	carl.carter@enron.com, daniel.diamond@enron.com, 
-	rahil.jafry@enron.com, bob.shults@enron.com
-	teresa.mandola@enron.com, jennifer.mcquade@enron.com, 
-	carl.carter@enron.com, daniel.diamond@enron.com, 
-	rahil.jafry@enron.com, bob.shults@enron.com
-
 With the filing of the Hart-Scott-Rodino application last week, it looks like our updated launch timeline is as follows. Note that it is still possible that this timeline could shift:
 
 Week of Jan 28:

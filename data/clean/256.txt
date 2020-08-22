@@ -1,7 +1,3 @@
-	rick.buy@enron.com, richard.causey@enron.com, 
-	raymond.bowen@enron.com, sharon.butcher@enron.com, 
-	l..carson@enron.com
-
 
 Attached please find a template for the governance presentation.  The font was increased slightly for a presentation format.
 

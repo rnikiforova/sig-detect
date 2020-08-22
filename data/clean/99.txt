@@ -1,6 +1,3 @@
-	peter.keohane@enron.com, sally.beck@enron.com
-	peter.keohane@enron.com, sally.beck@enron.com
-
 In order to commence physical trading on February 11th, we are dependent upon the following:
 
 	(1)	Determination of the Canadian entity name for contracting purposes
