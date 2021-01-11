@@ -1,5 +1,0 @@
-
-Virgina, correct me if I'm wrong, I believe BPA has special rules when energy is curtailed.  Instead of us charging them with liquidated damages, BPA will not bill for the hours curtailed.  I track and record the cuts by modifying the deal in deal scheduling so that settlement is aware of the cuts.
-
-#sig#lisa  
-

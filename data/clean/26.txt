@@ -1,4 +1,0 @@
-
-Any chance we could look at the US$/Euro rates in addition to the US$/C$ rates to see whether there's a strong correllation for use in the forecasting model?  Thanks.
-
-#sig#KC
