@@ -1,0 +1,8 @@
+Thanks,
+[JP](PERSON)
+[Jeff Hoogendam](PERSON) - [President](TITLE) & [CEO](TITLE)
+[SmartPrice.com, Inc.](ORG)
+"Changing the way the world buys telecom."
+T: [512.342.8800](PHONE), [x3008](PHONE)
+F: [512.342.1072](FAX)
+[www.smartprice.com](URL)

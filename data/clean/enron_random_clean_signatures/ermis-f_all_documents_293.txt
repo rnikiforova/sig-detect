@@ -1,0 +1,6 @@
+Sincerely,
+[Jodi Barraclough](PERSON)
+[Regus Business Centers](ORG)
+[713-353-4648](PHONE), Fax [713-353-4601](FAX)
+[Jbarraclough@regususa.com](EMAIL)
+[www.regus.com](URL)

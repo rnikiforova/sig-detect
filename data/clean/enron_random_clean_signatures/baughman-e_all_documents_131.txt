@@ -1,0 +1,10 @@
+[Bobette](ORG)
+
+[Bobette  Riner](PERSON)
+[Senior Power Markets Analyst](TITLE)
+[TradersNews Energy](ORG)
+[713/647-8690](PHONE)
+FAX: [713/647-7552](FAX)
+cell:  [832/428-7008](PHONE)
+[bobette.riner@ipgdirect.com](EMAIL)
+[http://www.tradersnewspower.com](URL)

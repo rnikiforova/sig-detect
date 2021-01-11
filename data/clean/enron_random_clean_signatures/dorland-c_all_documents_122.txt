@@ -1,0 +1,8 @@
+[Chris Dorland](PERSON)
+[Enron Canada Corp.](ORG)
+[3500 Canterra Tower](ADDRESS)
+[400 - 3rd Ave. SW](ADDRESS)
+[Calgary, AB   Canada](ADDRESS)
+T2P 4H2
+Thanx,
+[Chris](PERSON)

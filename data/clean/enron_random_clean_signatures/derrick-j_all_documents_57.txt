@@ -1,0 +1,8 @@
+Sincerely,
+[Patrick C. Brandt, Esq.](PERSON)
+[e-Compliance Sales](DIV) [Director](TITLE)
+[Legal Research Center](ORG)
+[700 Midland Square](ADDRESS)
+[331 Second Avenue South](ADDRESS)
+[Minneapolis, MN 55401](ADDRESS)
+[pbrandt@lrci.com](EMAIL)

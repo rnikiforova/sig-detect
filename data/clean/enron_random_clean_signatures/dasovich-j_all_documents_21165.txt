@@ -1,0 +1,5 @@
+[Richard Costigan, III](PERSON)
+[Chief of Staff](TITLE)
+[Office of the Assembly Republican Leader](DIV)
+[California State Assembly](ORG)
+Phone:[(916) 319-2005](PHONE)

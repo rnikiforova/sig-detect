@@ -1,0 +1,13 @@
+Happy holidays,
+[Andy Bartlett](PERSON)
+[Senior Editor](TITLE), [Music](DIV)
+[Amazon.com](ORG)
+PS: We hope you enjoyed receiving this message. However, if you'd
+rather not receive future e-mails of this sort from Amazon.com,
+please use the link below or click the Your Account button in the
+top right corner of any page. Under the Your Account Settings
+heading, click the "Update your communication preferences" link.
+[http://www.amazon.com/your-account/](URL)
+Please note that this message was sent to the following e-mail
+address:
+[lcampbel@enron.com](EMAIL)

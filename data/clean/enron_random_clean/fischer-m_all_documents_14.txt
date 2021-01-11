@@ -1,0 +1,6 @@
+The attached PDF file contains the latest 1.5 Faults and the Timers which are 
+initiated.
+If there is a "- - - -" in the 1.5 column, the Fault is not used.
+
+#sig#Ron
+

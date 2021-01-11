@@ -1,0 +1,48 @@
+John's proposed plant costs are consistent with what we have seen for our 
+ongoing LM6000 development.   I have priced 130 MW at Four Corners  assuming 
+Permian gas plus 50 cents for transport.  This also assumes $4.70 per MWh for 
+O&M and an 8000 heat rate.
+
+For an hourly 7x24 product, the intrinsic value of the gas-power swap is 
+$52.5 million on a 20 year deal, well below the $108 million estimate of 
+constructing the facility.  A ten year swap is worth only $42 million (NPV = 
+-66 m ).  That implies a market mid-price of $34 per MWh levelized over the 
+period.  
+
+Using the ENA Power and Gas structuring model and curves, we can determine 
+the following:
+1.  New build gas turbines cannot compete against the New Mexico market on 
+price.  
+2.  LM6000 CCGT efficiency gain does not pay for HRSG and ST over a ten year 
+period.
+
+However:
+1.  Transmission constraints could create market value in Albuquerque that 
+does not exist at Four Corners.
+2.  ENA's power prices typically undersell the market.
+3.  Commodity pricing does not accurately value capacity or reliability in 
+constrained markets.
+
+If Enron wants to do a deal in Albuquerque, we should be selling capacity and 
+reliability.  Given the number of power- critical industries in the area, we 
+could look at siting several remote units at different locations in the 
+city.  Numerous chip manufacturing facilities and the Kirtland base could 
+support several LM6000's for power reliability that is specific to their 
+installations.  
+
+I might also suggest that peaking units would have advantages over CCGT 
+units.  Existing generation already provides ample baseload supply, however, 
+the production of peak and intermediate energy is not necessarily well suited 
+to existing units.  LM6000's have exceptionally good ramp rates that provide 
+real value to a utility customer.  Not only can the HRSG/ST hinder the 
+flexibility of the units, it can add substantial capital and operating 
+expense with little real market benefit.  
+
+We should also explore the ability to schedule load.  If the DOE wants to 
+peak for a test, would it be willing or able to schedule a test for the 
+off-peak hours?  Under those circumstances, we might be able to cut them a 
+break on power and provide reliability of supply.  
+
+#sig#Steve Thome
+#sig#
+#sig#503-464-3708

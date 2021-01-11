@@ -1,0 +1,5 @@
+Best regards,
+[Will McNamara](PERSON)
+[Director](TITLE), [Electric Industry Analysis](ORG)
+[wmcnamara@scientech.com](EMAIL)
+[http://www.consultrci.com](URL)

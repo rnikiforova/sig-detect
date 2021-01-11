@@ -1,0 +1,23 @@
+Mr. Meyers,
+
+Your report is attached as a pdf format map and an Excel format
+spreadsheet containing lightning details.
+
+PLEASE NOTE: The search time requested in this report spans the daylight
+savings time switch-over (2am on April 7, 2002).  The data in this
+report was generated and expressed exclusively in Central Standard Time.
+
+Please contact Sheryl McCrary or me with any questions.
+
+#sig#Best regards,
+#sig#
+#sig#--
+#sig#William Brooks
+#sig#Data Analyst
+#sig#Vaisala-GAI Inc. (formerly Global Atmospherics, Inc.)
+#sig#2705 E. Medina Road, Tucson, AZ  85706 USA
+#sig#Tel: 520.806.7371
+#sig#Fax: 520.741.2848
+#sig#E-mail: wbrooks@glatmos.com
+#sig#Division Website: www.LightningStorm.com
+#sig#Corporate Website: www.vaisala.com

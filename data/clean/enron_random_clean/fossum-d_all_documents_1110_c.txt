@@ -1,0 +1,31 @@
+Here are some peaker data points:
+
+Two LM6000's in simple cycle configuration can be installed for between $43 m 
+and $50 m, providing a total of 80 MW.  Looking at a 10 year deal, there is 
+no way to recoup this value and ENA would not be willing to take the back 10 
+years on its books without an offtaker.  If EES or DOE were willing to step 
+up for 20 years, there might be an opportunity.   Assuming a 9700 heat rate, 
+$3 per MWh O&M, and NYMEX plus $0.39 for gas, the spread option for a peaker 
+at 4 Corners would be worth between $33 m and $47 m.  The first number 
+represents the intrinsic value, and the second is inclusive of an option 
+premium.  ENA's desk (EPMI) would pay somewhere in between.  Having just 
+inquired with the desk regarding their appetite for taking positions (short 
+65 MW, long 80 MW) in Albuquerque, they were luke warm.  Considering 
+transmission constraints into Albuquerque, their bid offer spread might run 
+the range of the extrinsic value on the 65 MW load.  
+
+Depending on site conditions (available infrastructure), a barebones LM6000 
+plant could make economic sense.  The plant host would likely need to pay 
+some sort of premium for generation reliability.  EES could sell fixed priced 
+energy with a reliability premium to the DOE.  ENA would back-to-back the EES 
+contract, managing market price risk and economically optimizing the 
+peaker.   
+
+As a stand-alone market play, a peaker is marginal at best.  By receiving 
+value for reliability, the project might have merit.  Based on the thin 
+margins, I am skeptical that we would want to build a plant larger than the 
+host's load... that is more MW than that amount on which we could expect to 
+receive some sort of demand charge.  Ultimately, the demand charge needs to 
+make up the shortfall between EPMI's swap value and the cost of the plant.
+
+#sig#Steve

@@ -1,0 +1,8 @@
+Hi Mark,
+
+Here is the answer to your question about the undocumented fault messages 
+(those without text descriptions). They should not influence the statistical 
+counters ("turbine OK" still increments after the faults occur) and do not 
+effect the behavior of the turbine. 
+
+#sig#-Garth

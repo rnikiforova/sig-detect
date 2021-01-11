@@ -1,0 +1,48 @@
+Hallo Zusammen,
+
+I received a document from our operations department that shows the occurence 
+of faults at the Mill Run site for the month of April. There are a number of 
+"undocumented" fault/status messages that are logged frequently:
+
+"EM247" 102 times
+"EM242" 102 times
+"EM238" 101 times
+"EM237" 101 times
+"EM235" 101 times
+"EM312" 56 times
+"EM280" 56 times
+"EM248" 56 times
+"EM304" 52 times
+"EM272" 52 times
+"EM311" 51 times
+"EM306" 51 times
+"EM302" 51 times
+"EM301" 51 times
+"EM299" 51 times
+"EM279" 51 times
+"EM274" 51 times
+"EM270" 51 times
+"EM240" 51 times
+"EM269" 50 times
+"EM267" 50 times
+
+Most of these fault were logged on turbine 5 and turbine 6 (with a few on 
+turbine 7). They are not distributed between all the turbines but isolated on 
+a few.
+
+The major question that that operations asked me was which production 
+statistic timer was incremented when these conditions were logged. My guess 
+is that since none of these stop the turbine that the "OK" timer continued to 
+increment. Is this correct? 
+
+The question that I have is: what is causing so many of these messages in the 
+log? Do these status messages have any specific meaning? According to the 
+documentation there are only about 220 messages that have descriptions in the 
+error list data base (in VisuPro v1.27.0.0). Where are the other messages 
+coming from? (This is version 13527 Bachmann software.) I think this issue 
+was brought up several months ago but I don't think we got any additional 
+information.
+
+#sig#Gru?,
+#sig#
+#sig#Garth

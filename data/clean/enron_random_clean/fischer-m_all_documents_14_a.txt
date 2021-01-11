@@ -1,0 +1,7 @@
+Klaus,
+I need to know which Timer is started for each of the following Fault/Status 
+messages, for example, Downtime, Weather Out, Line out, External Stop, etc.
+This information is not in the older version of the VisuPro manual.
+
+#sig#Thank you.
+#sig#Ron

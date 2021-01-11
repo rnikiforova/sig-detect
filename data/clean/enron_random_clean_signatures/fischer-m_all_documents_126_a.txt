@@ -1,0 +1,11 @@
+Best regards,
+--
+[William Brooks](PERSON)
+[Data Analyst](TITLE)
+[Vaisala-GAI Inc.](ORG) (formerly [Global Atmospherics, Inc.](ORG))
+[2705 E. Medina Road, Tucson, AZ  85706 USA](ADDRESS)
+Tel: [520.806.7371](PHONE)
+Fax: [520.741.2848](FAX)
+E-mail: [wbrooks@glatmos.com](EMAIL)
+Division Website: [www.LightningStorm.com](URL)
+Corporate Website: [www.vaisala.com](URL)

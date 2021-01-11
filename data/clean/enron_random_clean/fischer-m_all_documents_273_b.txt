@@ -1,0 +1,11 @@
+Hi Garth,
+we don't know the reason for these 'fault' appearances, yet. It has to do 
+with the communication between PC and PLC.
+But : it did not influence the status of the turbine, neither it shuts down, 
+nor downtime counts up.
+In version 1x629 the solve the problem, but the real cause is not solves, 
+until now. Clemens will work on it.
+
+What's the time schedule for updating V1x629 ?
+#sig#Best regards and nice weekend
+#sig#Gert.

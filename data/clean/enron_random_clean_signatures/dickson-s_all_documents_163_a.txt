@@ -1,0 +1,6 @@
+Regards,
+[Vangie McGillloway](PERSON)
+[Constellation Power Source, Inc.](ORG)
+Phone [410-468-3798](PHONE)
+Fax [410-468-3499](FAX)
+Email [vangie.mcgilloway@powersrc.com](EMAIL)

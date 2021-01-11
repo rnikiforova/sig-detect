@@ -1,0 +1,19 @@
+Greetings,
+
+Thank you for running the program to determine if any of the strikes in the 
+Excel sheet intersect the point shown below.
+
+#sig#Matt Meyers
+
+
+
+Search area centered:
+
+Latitude:    32.4209 degrees (32 deg  25.254 min)
+Longitude:    100.2266 degrees (-100 deg  13.597 min)
+Radius:     15 miles
+Start time:    6 April 2002 (12:00 noon local)
+End time:    7 April 2002 (12:00 noon local)
+Time zone:    The site is in Central time
+
+Label:  Turbine 49

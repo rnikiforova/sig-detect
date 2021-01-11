@@ -1,0 +1,28 @@
+Dear Market Participants,
+
+Please note the changes below are planned for the indicated
+OASIS/MIS/CSS systems on the dates shown.  Updates and revisions
+will follow as needed to keep you informed.
+Please direct any questions or comments back to me.
+
+#sig#Thank you,
+#sig#Pete Morrison
+#sig#Customer Relations
+#sig#518-356-6060
+
+##################################################################
+Scheduled for 12/13/00
+Change type - Enhancement
+Description:
+The Billing system will be corrected to use external zonal prices
+for the calculation of external load transactions.
+The SPIDER power system model will be updated to reflect physical
+changes to the electric system.
+The Manual Dispatch System (MDS) will be modified to reflect the
+recent transfer in ownership of Indian point 3; the DNI values for
+that unit will be included in the DNI calculation for ConEd
+
+?s
+region (previously scheduled for 12/6/00).
+FKOI-4RLQ5U; JCWG-4RBSEJ; MGUE-4RPMKN
+##################################################################

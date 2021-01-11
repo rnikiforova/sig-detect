@@ -1,0 +1,6 @@
+[Brian T. Hoskins](PERSON)
+[Enron Broadband Services](ORG)
+[713-853-0380](PHONE) (office)
+[713-412-3667](PHONE) (mobile)
+[713-646-5745](FAX) (fax)
+[Brian_Hoskins@enron.net](EMAIL)
